@@ -12,8 +12,6 @@ Additional Resources:
 
 - [DoubleML documentation](https://docs.doubleml.org/stable/index.html)
 
-- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/chapters/CausalML_book_2022.pdf)
-
 - [An Introduction to Double/Debiased Machine Learning](https://arxiv.org/pdf/2504.08324) by Ahrens, Chernozhukov, Hansen, etc.
 
-- 
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/chapters/CausalML_book_2022.pdf)
